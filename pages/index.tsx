@@ -17,8 +17,7 @@ const Home: NextPage = () => {
                 height="60"
                 viewBox="0 0 60 60"
                 fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-              >
+                xmlns="http://www.w3.org/2000/svg">
                 <mask
                   id="mask0"
                   mask-type="alpha"
@@ -26,8 +25,7 @@ const Home: NextPage = () => {
                   x="0"
                   y="0"
                   width="60"
-                  height="60"
-                >
+                  height="60">
                   <circle cx="30" cy="30" r="30" fill="#3546AB" />
                 </mask>
                 <g mask="url(#mask0)">
@@ -50,8 +48,7 @@ const Home: NextPage = () => {
               data-bs-target="#navbarNav"
               aria-controls="navbarNav"
               aria-expanded="false"
-              aria-label="Toggle navigation"
-            >
+              aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
             </button>
             <div className="collapse navbar-collapse" id="navbarNav">
@@ -86,8 +83,7 @@ const Home: NextPage = () => {
                   <a
                     className="btn btn-sign-in d-flex justify-content-center ms-lg-2 rounded-pill"
                     href="./src/sign-in.html"
-                    role="button"
-                  >
+                    role="button">
                     Sign In
                   </a>
                 </li>
@@ -120,15 +116,13 @@ const Home: NextPage = () => {
                 <a
                   className="btn btn-get text-lg text-white rounded-pill"
                   href="#feature"
-                  role="button"
-                >
+                  role="button">
                   Get Started
                 </a>
                 <a
                   className="btn-learn text-lg color-palette-1 my-auto text-center"
                   href="#"
-                  role="button"
-                >
+                  role="button">
                   Learn More
                 </a>
               </div>
@@ -161,8 +155,7 @@ const Home: NextPage = () => {
                         height="22"
                         viewBox="0 0 24 22"
                         fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
+                        xmlns="http://www.w3.org/2000/svg">
                         <path
                           d="M11.0489 0.927049C11.3483 0.0057386 12.6517 0.00574004 12.9511 0.927051L14.9187 6.98278C15.0526 7.3948 15.4365 7.67376 15.8697 7.67376H22.2371C23.2058 7.67376 23.6086 8.91338 22.8249 9.48278L17.6736 13.2254C17.3231 13.4801 17.1764 13.9314 17.3103 14.3435L19.2779 20.3992C19.5773 21.3205 18.5228 22.0866 17.7391 21.5172L12.5878 17.7746C12.2373 17.5199 11.7627 17.5199 11.4122 17.7746L6.2609 21.5172C5.47719 22.0866 4.42271 21.3205 4.72206 20.3992L6.68969 14.3435C6.82356 13.9314 6.6769 13.4801 6.32642 13.2254L1.17511 9.48278C0.391392 8.91338 0.794168 7.67376 1.76289 7.67376H8.13026C8.56349 7.67376 8.94744 7.3948 9.08132 6.98278L11.0489 0.927049Z"
                           fill="#FEBD57"
@@ -173,8 +166,7 @@ const Home: NextPage = () => {
                         height="22"
                         viewBox="0 0 24 22"
                         fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
+                        xmlns="http://www.w3.org/2000/svg">
                         <path
                           d="M11.0489 0.927049C11.3483 0.0057386 12.6517 0.00574004 12.9511 0.927051L14.9187 6.98278C15.0526 7.3948 15.4365 7.67376 15.8697 7.67376H22.2371C23.2058 7.67376 23.6086 8.91338 22.8249 9.48278L17.6736 13.2254C17.3231 13.4801 17.1764 13.9314 17.3103 14.3435L19.2779 20.3992C19.5773 21.3205 18.5228 22.0866 17.7391 21.5172L12.5878 17.7746C12.2373 17.5199 11.7627 17.5199 11.4122 17.7746L6.2609 21.5172C5.47719 22.0866 4.42271 21.3205 4.72206 20.3992L6.68969 14.3435C6.82356 13.9314 6.6769 13.4801 6.32642 13.2254L1.17511 9.48278C0.391392 8.91338 0.794168 7.67376 1.76289 7.67376H8.13026C8.56349 7.67376 8.94744 7.3948 9.08132 6.98278L11.0489 0.927049Z"
                           fill="#FEBD57"
@@ -185,8 +177,7 @@ const Home: NextPage = () => {
                         height="22"
                         viewBox="0 0 24 22"
                         fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
+                        xmlns="http://www.w3.org/2000/svg">
                         <path
                           d="M11.0489 0.927049C11.3483 0.0057386 12.6517 0.00574004 12.9511 0.927051L14.9187 6.98278C15.0526 7.3948 15.4365 7.67376 15.8697 7.67376H22.2371C23.2058 7.67376 23.6086 8.91338 22.8249 9.48278L17.6736 13.2254C17.3231 13.4801 17.1764 13.9314 17.3103 14.3435L19.2779 20.3992C19.5773 21.3205 18.5228 22.0866 17.7391 21.5172L12.5878 17.7746C12.2373 17.5199 11.7627 17.5199 11.4122 17.7746L6.2609 21.5172C5.47719 22.0866 4.42271 21.3205 4.72206 20.3992L6.68969 14.3435C6.82356 13.9314 6.6769 13.4801 6.32642 13.2254L1.17511 9.48278C0.391392 8.91338 0.794168 7.67376 1.76289 7.67376H8.13026C8.56349 7.67376 8.94744 7.3948 9.08132 6.98278L11.0489 0.927049Z"
                           fill="#FEBD57"
@@ -197,8 +188,7 @@ const Home: NextPage = () => {
                         height="22"
                         viewBox="0 0 24 22"
                         fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
+                        xmlns="http://www.w3.org/2000/svg">
                         <path
                           d="M11.0489 0.927049C11.3483 0.0057386 12.6517 0.00574004 12.9511 0.927051L14.9187 6.98278C15.0526 7.3948 15.4365 7.67376 15.8697 7.67376H22.2371C23.2058 7.67376 23.6086 8.91338 22.8249 9.48278L17.6736 13.2254C17.3231 13.4801 17.1764 13.9314 17.3103 14.3435L19.2779 20.3992C19.5773 21.3205 18.5228 22.0866 17.7391 21.5172L12.5878 17.7746C12.2373 17.5199 11.7627 17.5199 11.4122 17.7746L6.2609 21.5172C5.47719 22.0866 4.42271 21.3205 4.72206 20.3992L6.68969 14.3435C6.82356 13.9314 6.6769 13.4801 6.32642 13.2254L1.17511 9.48278C0.391392 8.91338 0.794168 7.67376 1.76289 7.67376H8.13026C8.56349 7.67376 8.94744 7.3948 9.08132 6.98278L11.0489 0.927049Z"
                           fill="#FEBD57"
@@ -209,8 +199,7 @@ const Home: NextPage = () => {
                         height="22"
                         viewBox="0 0 24 22"
                         fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
+                        xmlns="http://www.w3.org/2000/svg">
                         <path
                           d="M11.0489 0.927049C11.3483 0.0057386 12.6517 0.00574004 12.9511 0.927051L14.9187 6.98278C15.0526 7.3948 15.4365 7.67376 15.8697 7.67376H22.2371C23.2058 7.67376 23.6086 8.91338 22.8249 9.48278L17.6736 13.2254C17.3231 13.4801 17.1764 13.9314 17.3103 14.3435L19.2779 20.3992C19.5773 21.3205 18.5228 22.0866 17.7391 21.5172L12.5878 17.7746C12.2373 17.5199 11.7627 17.5199 11.4122 17.7746L6.2609 21.5172C5.47719 22.0866 4.42271 21.3205 4.72206 20.3992L6.68969 14.3435C6.82356 13.9314 6.6769 13.4801 6.32642 13.2254L1.17511 9.48278C0.391392 8.91338 0.794168 7.67376 1.76289 7.67376H8.13026C8.56349 7.67376 8.94744 7.3948 9.08132 6.98278L11.0489 0.927049Z"
                           fill="#FEBD57"
@@ -260,8 +249,7 @@ const Home: NextPage = () => {
                   height="80"
                   viewBox="0 0 80 80"
                   fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
+                  xmlns="http://www.w3.org/2000/svg">
                   <mask
                     id="mask0-icon1"
                     mask-type="alpha"
@@ -269,8 +257,7 @@ const Home: NextPage = () => {
                     x="0"
                     y="0"
                     width="80"
-                    height="80"
-                  >
+                    height="80">
                     <circle cx="40" cy="40" r="40" fill="#D7D7F8" />
                   </mask>
                   <g mask="url(#mask0-icon1)">
@@ -282,8 +269,7 @@ const Home: NextPage = () => {
                       x="-12"
                       y="23"
                       width="67"
-                      height="73"
-                    >
+                      height="73">
                       <path
                         d="M-12 23H33C45.1503 23 55 32.8497 55 45V96H-12V23Z"
                         fill="#4D17E2"
@@ -297,16 +283,16 @@ const Home: NextPage = () => {
                       <path
                         d="M37 55H-4"
                         stroke="white"
-                        stroke-width="4"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="4"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                       <path
                         d="M23 64L-4 64"
                         stroke="#B7B0F4"
-                        stroke-width="4"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeWidth="4"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                       />
                       <rect
                         x="23"
@@ -330,7 +316,7 @@ const Home: NextPage = () => {
                       cy="29.5"
                       r="5.5"
                       stroke="white"
-                      stroke-width="4"
+                      strokeWidth="4"
                     />
                   </g>
                 </svg>
@@ -352,8 +338,7 @@ const Home: NextPage = () => {
                   height="80"
                   viewBox="0 0 80 80"
                   fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
+                  xmlns="http://www.w3.org/2000/svg">
                   <mask
                     id="mask0-icon2"
                     mask-type="alpha"
@@ -361,8 +346,7 @@ const Home: NextPage = () => {
                     x="0"
                     y="0"
                     width="80"
-                    height="80"
-                  >
+                    height="80">
                     <circle cx="40" cy="40" r="40" fill="#D7D7F8" />
                   </mask>
                   <g mask="url(#mask0-icon2)">
@@ -378,16 +362,16 @@ const Home: NextPage = () => {
                     <path
                       d="M32 36H5"
                       stroke="white"
-                      stroke-width="4"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeWidth="4"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                     />
                     <path
                       d="M27 45L9 45"
                       stroke="#B7B0F4"
-                      stroke-width="4"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeWidth="4"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                     />
                     <rect
                       x="56"
@@ -400,16 +384,16 @@ const Home: NextPage = () => {
                     <path
                       d="M97 50H70"
                       stroke="white"
-                      stroke-width="4"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeWidth="4"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                     />
                     <path
                       d="M92 59L74 59"
                       stroke="#6B63AC"
-                      stroke-width="4"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeWidth="4"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                     />
                   </g>
                 </svg>
@@ -431,8 +415,7 @@ const Home: NextPage = () => {
                   height="80"
                   viewBox="0 0 80 80"
                   fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
+                  xmlns="http://www.w3.org/2000/svg">
                   <mask
                     id="mask0-icon3"
                     mask-type="alpha"
@@ -440,8 +423,7 @@ const Home: NextPage = () => {
                     x="0"
                     y="0"
                     width="80"
-                    height="80"
-                  >
+                    height="80">
                     <circle cx="40" cy="40" r="40" fill="#D7D7F8" />
                   </mask>
                   <g mask="url(#mask0-icon3)">
@@ -457,23 +439,23 @@ const Home: NextPage = () => {
                     <path
                       d="M50 46L50 68"
                       stroke="white"
-                      stroke-width="4"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeWidth="4"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                     />
                     <path
                       d="M40 54L40 68"
                       stroke="#B7B0F4"
-                      stroke-width="4"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeWidth="4"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                     />
                     <path
                       d="M30 60L30 68"
                       stroke="#B7B0F4"
-                      stroke-width="4"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeWidth="4"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                     />
                     <circle cx="40" cy="26" r="14" fill="#2B2467" />
                     <path
@@ -504,8 +486,7 @@ const Home: NextPage = () => {
           </h2>
           <div
             className="d-flex flex-row flex-lg-wrap overflow-setting justify-content-lg-between gap-lg-3 gap-4"
-            data-aos="fade-up"
-          >
+            data-aos="fade-up">
             <div className="featured-game-card position-relative">
               <a href="./src/detail.html">
                 <div className="blur-sharp">
@@ -524,8 +505,7 @@ const Home: NextPage = () => {
                         height="36"
                         viewBox="0 0 54 36"
                         fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
+                        xmlns="http://www.w3.org/2000/svg">
                         <path
                           d="M48.8309 6.33404C41.7479 -5.30296 31.0779 2.79304 31.0779 2.79304C30.3859 3.31604 29.1099 3.74604 28.2429 3.74804L25.3849 3.75004C24.5179 3.75104 23.2419 3.32104 22.5509 2.79804C22.5509 2.79804 11.8799 -5.29996 4.79595 6.33704C-2.28605 17.97 0.567947 30.639 0.567947 30.639C1.06795 33.741 2.71595 35.811 5.82595 35.551C8.92695 35.292 15.6579 27.197 15.6579 27.197C16.2139 26.53 17.3789 25.985 18.2439 25.985L35.3779 25.982C36.2439 25.982 37.4079 26.527 37.9629 27.194C37.9629 27.194 44.6949 35.289 47.8009 35.548C50.9069 35.808 52.5589 33.736 53.0559 30.636C53.0549 30.636 55.9139 17.969 48.8309 6.33404ZM20.3739 15.806H16.6999V19.347C16.6999 19.347 15.9219 19.941 14.7179 19.926C13.5159 19.908 12.9719 19.278 12.9719 19.278V15.807H9.50195C9.50195 15.807 9.06895 15.363 8.95295 14.194C8.83895 13.025 9.43195 12.08 9.43195 12.08H13.1069V8.40604C13.1069 8.40604 13.8629 8.00104 14.9499 8.03204C16.0379 8.06604 16.8349 8.47504 16.8349 8.47504L16.8199 12.079H20.2899C20.2899 12.079 20.8959 12.857 20.9459 13.797C20.9959 14.738 20.3739 15.806 20.3739 15.806ZM37.2259 19.842C35.6169 19.842 34.3199 18.541 34.3199 16.934C34.3199 15.324 35.6169 14.026 37.2259 14.026C38.8279 14.026 40.1349 15.324 40.1349 16.934C40.1349 18.542 38.8279 19.842 37.2259 19.842ZM37.2259 11.841C35.6169 11.841 34.3199 10.541 34.3199 8.93404C34.3199 7.32404 35.6169 6.02604 37.2259 6.02604C38.8279 6.02604 40.1349 7.32404 40.1349 8.93404C40.1349 10.542 38.8279 11.841 37.2259 11.841ZM44.4679 16.136C42.8589 16.136 41.5619 14.836 41.5619 13.228C41.5619 11.619 42.8589 10.32 44.4679 10.32C46.0699 10.32 47.3769 11.619 47.3769 13.228C47.3769 14.836 46.0699 16.136 44.4679 16.136Z"
                           fill="white"
@@ -560,8 +540,7 @@ const Home: NextPage = () => {
                         height="36"
                         viewBox="0 0 54 36"
                         fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
+                        xmlns="http://www.w3.org/2000/svg">
                         <path
                           d="M48.8309 6.33404C41.7479 -5.30296 31.0779 2.79304 31.0779 2.79304C30.3859 3.31604 29.1099 3.74604 28.2429 3.74804L25.3849 3.75004C24.5179 3.75104 23.2419 3.32104 22.5509 2.79804C22.5509 2.79804 11.8799 -5.29996 4.79595 6.33704C-2.28605 17.97 0.567947 30.639 0.567947 30.639C1.06795 33.741 2.71595 35.811 5.82595 35.551C8.92695 35.292 15.6579 27.197 15.6579 27.197C16.2139 26.53 17.3789 25.985 18.2439 25.985L35.3779 25.982C36.2439 25.982 37.4079 26.527 37.9629 27.194C37.9629 27.194 44.6949 35.289 47.8009 35.548C50.9069 35.808 52.5589 33.736 53.0559 30.636C53.0549 30.636 55.9139 17.969 48.8309 6.33404ZM20.3739 15.806H16.6999V19.347C16.6999 19.347 15.9219 19.941 14.7179 19.926C13.5159 19.908 12.9719 19.278 12.9719 19.278V15.807H9.50195C9.50195 15.807 9.06895 15.363 8.95295 14.194C8.83895 13.025 9.43195 12.08 9.43195 12.08H13.1069V8.40604C13.1069 8.40604 13.8629 8.00104 14.9499 8.03204C16.0379 8.06604 16.8349 8.47504 16.8349 8.47504L16.8199 12.079H20.2899C20.2899 12.079 20.8959 12.857 20.9459 13.797C20.9959 14.738 20.3739 15.806 20.3739 15.806ZM37.2259 19.842C35.6169 19.842 34.3199 18.541 34.3199 16.934C34.3199 15.324 35.6169 14.026 37.2259 14.026C38.8279 14.026 40.1349 15.324 40.1349 16.934C40.1349 18.542 38.8279 19.842 37.2259 19.842ZM37.2259 11.841C35.6169 11.841 34.3199 10.541 34.3199 8.93404C34.3199 7.32404 35.6169 6.02604 37.2259 6.02604C38.8279 6.02604 40.1349 7.32404 40.1349 8.93404C40.1349 10.542 38.8279 11.841 37.2259 11.841ZM44.4679 16.136C42.8589 16.136 41.5619 14.836 41.5619 13.228C41.5619 11.619 42.8589 10.32 44.4679 10.32C46.0699 10.32 47.3769 11.619 47.3769 13.228C47.3769 14.836 46.0699 16.136 44.4679 16.136Z"
                           fill="white"
@@ -596,8 +575,7 @@ const Home: NextPage = () => {
                         height="36"
                         viewBox="0 0 54 36"
                         fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
+                        xmlns="http://www.w3.org/2000/svg">
                         <path
                           d="M48.8309 6.33404C41.7479 -5.30296 31.0779 2.79304 31.0779 2.79304C30.3859 3.31604 29.1099 3.74604 28.2429 3.74804L25.3849 3.75004C24.5179 3.75104 23.2419 3.32104 22.5509 2.79804C22.5509 2.79804 11.8799 -5.29996 4.79595 6.33704C-2.28605 17.97 0.567947 30.639 0.567947 30.639C1.06795 33.741 2.71595 35.811 5.82595 35.551C8.92695 35.292 15.6579 27.197 15.6579 27.197C16.2139 26.53 17.3789 25.985 18.2439 25.985L35.3779 25.982C36.2439 25.982 37.4079 26.527 37.9629 27.194C37.9629 27.194 44.6949 35.289 47.8009 35.548C50.9069 35.808 52.5589 33.736 53.0559 30.636C53.0549 30.636 55.9139 17.969 48.8309 6.33404ZM20.3739 15.806H16.6999V19.347C16.6999 19.347 15.9219 19.941 14.7179 19.926C13.5159 19.908 12.9719 19.278 12.9719 19.278V15.807H9.50195C9.50195 15.807 9.06895 15.363 8.95295 14.194C8.83895 13.025 9.43195 12.08 9.43195 12.08H13.1069V8.40604C13.1069 8.40604 13.8629 8.00104 14.9499 8.03204C16.0379 8.06604 16.8349 8.47504 16.8349 8.47504L16.8199 12.079H20.2899C20.2899 12.079 20.8959 12.857 20.9459 13.797C20.9959 14.738 20.3739 15.806 20.3739 15.806ZM37.2259 19.842C35.6169 19.842 34.3199 18.541 34.3199 16.934C34.3199 15.324 35.6169 14.026 37.2259 14.026C38.8279 14.026 40.1349 15.324 40.1349 16.934C40.1349 18.542 38.8279 19.842 37.2259 19.842ZM37.2259 11.841C35.6169 11.841 34.3199 10.541 34.3199 8.93404C34.3199 7.32404 35.6169 6.02604 37.2259 6.02604C38.8279 6.02604 40.1349 7.32404 40.1349 8.93404C40.1349 10.542 38.8279 11.841 37.2259 11.841ZM44.4679 16.136C42.8589 16.136 41.5619 14.836 41.5619 13.228C41.5619 11.619 42.8589 10.32 44.4679 10.32C46.0699 10.32 47.3769 11.619 47.3769 13.228C47.3769 14.836 46.0699 16.136 44.4679 16.136Z"
                           fill="white"
@@ -632,8 +610,7 @@ const Home: NextPage = () => {
                         height="36"
                         viewBox="0 0 54 36"
                         fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
+                        xmlns="http://www.w3.org/2000/svg">
                         <path
                           d="M48.8309 6.33404C41.7479 -5.30296 31.0779 2.79304 31.0779 2.79304C30.3859 3.31604 29.1099 3.74604 28.2429 3.74804L25.3849 3.75004C24.5179 3.75104 23.2419 3.32104 22.5509 2.79804C22.5509 2.79804 11.8799 -5.29996 4.79595 6.33704C-2.28605 17.97 0.567947 30.639 0.567947 30.639C1.06795 33.741 2.71595 35.811 5.82595 35.551C8.92695 35.292 15.6579 27.197 15.6579 27.197C16.2139 26.53 17.3789 25.985 18.2439 25.985L35.3779 25.982C36.2439 25.982 37.4079 26.527 37.9629 27.194C37.9629 27.194 44.6949 35.289 47.8009 35.548C50.9069 35.808 52.5589 33.736 53.0559 30.636C53.0549 30.636 55.9139 17.969 48.8309 6.33404ZM20.3739 15.806H16.6999V19.347C16.6999 19.347 15.9219 19.941 14.7179 19.926C13.5159 19.908 12.9719 19.278 12.9719 19.278V15.807H9.50195C9.50195 15.807 9.06895 15.363 8.95295 14.194C8.83895 13.025 9.43195 12.08 9.43195 12.08H13.1069V8.40604C13.1069 8.40604 13.8629 8.00104 14.9499 8.03204C16.0379 8.06604 16.8349 8.47504 16.8349 8.47504L16.8199 12.079H20.2899C20.2899 12.079 20.8959 12.857 20.9459 13.797C20.9959 14.738 20.3739 15.806 20.3739 15.806ZM37.2259 19.842C35.6169 19.842 34.3199 18.541 34.3199 16.934C34.3199 15.324 35.6169 14.026 37.2259 14.026C38.8279 14.026 40.1349 15.324 40.1349 16.934C40.1349 18.542 38.8279 19.842 37.2259 19.842ZM37.2259 11.841C35.6169 11.841 34.3199 10.541 34.3199 8.93404C34.3199 7.32404 35.6169 6.02604 37.2259 6.02604C38.8279 6.02604 40.1349 7.32404 40.1349 8.93404C40.1349 10.542 38.8279 11.841 37.2259 11.841ZM44.4679 16.136C42.8589 16.136 41.5619 14.836 41.5619 13.228C41.5619 11.619 42.8589 10.32 44.4679 10.32C46.0699 10.32 47.3769 11.619 47.3769 13.228C47.3769 14.836 46.0699 16.136 44.4679 16.136Z"
                           fill="white"
@@ -668,8 +645,7 @@ const Home: NextPage = () => {
                         height="36"
                         viewBox="0 0 54 36"
                         fill="none"
-                        xmlns="http://www.w3.org/2000/svg"
-                      >
+                        xmlns="http://www.w3.org/2000/svg">
                         <path
                           d="M48.8309 6.33404C41.7479 -5.30296 31.0779 2.79304 31.0779 2.79304C30.3859 3.31604 29.1099 3.74604 28.2429 3.74804L25.3849 3.75004C24.5179 3.75104 23.2419 3.32104 22.5509 2.79804C22.5509 2.79804 11.8799 -5.29996 4.79595 6.33704C-2.28605 17.97 0.567947 30.639 0.567947 30.639C1.06795 33.741 2.71595 35.811 5.82595 35.551C8.92695 35.292 15.6579 27.197 15.6579 27.197C16.2139 26.53 17.3789 25.985 18.2439 25.985L35.3779 25.982C36.2439 25.982 37.4079 26.527 37.9629 27.194C37.9629 27.194 44.6949 35.289 47.8009 35.548C50.9069 35.808 52.5589 33.736 53.0559 30.636C53.0549 30.636 55.9139 17.969 48.8309 6.33404ZM20.3739 15.806H16.6999V19.347C16.6999 19.347 15.9219 19.941 14.7179 19.926C13.5159 19.908 12.9719 19.278 12.9719 19.278V15.807H9.50195C9.50195 15.807 9.06895 15.363 8.95295 14.194C8.83895 13.025 9.43195 12.08 9.43195 12.08H13.1069V8.40604C13.1069 8.40604 13.8629 8.00104 14.9499 8.03204C16.0379 8.06604 16.8349 8.47504 16.8349 8.47504L16.8199 12.079H20.2899C20.2899 12.079 20.8959 12.857 20.9459 13.797C20.9959 14.738 20.3739 15.806 20.3739 15.806ZM37.2259 19.842C35.6169 19.842 34.3199 18.541 34.3199 16.934C34.3199 15.324 35.6169 14.026 37.2259 14.026C38.8279 14.026 40.1349 15.324 40.1349 16.934C40.1349 18.542 38.8279 19.842 37.2259 19.842ZM37.2259 11.841C35.6169 11.841 34.3199 10.541 34.3199 8.93404C34.3199 7.32404 35.6169 6.02604 37.2259 6.02604C38.8279 6.02604 40.1349 7.32404 40.1349 8.93404C40.1349 10.542 38.8279 11.841 37.2259 11.841ZM44.4679 16.136C42.8589 16.136 41.5619 14.836 41.5619 13.228C41.5619 11.619 42.8589 10.32 44.4679 10.32C46.0699 10.32 47.3769 11.619 47.3769 13.228C47.3769 14.836 46.0699 16.136 44.4679 16.136Z"
                           fill="white"
@@ -740,8 +716,7 @@ const Home: NextPage = () => {
           <div className="row align-items-center px-lg-5 mx-auto gap-lg-0 gap-4">
             <div
               className="col-lg-7 col-12 d-lg-flex d-none justify-content-lg-end pe-lg-60"
-              data-aos="zoom-in"
-            >
+              data-aos="zoom-in">
               <img
                 src="/img/Header-9.png"
                 width="612"
@@ -766,8 +741,7 @@ const Home: NextPage = () => {
                   <a
                     className="btn btn-read text-lg rounded-pill"
                     href="#"
-                    role="button"
-                  >
+                    role="button">
                     Read Story
                   </a>
                 </div>
@@ -788,8 +762,7 @@ const Home: NextPage = () => {
                     height="60"
                     viewBox="0 0 60 60"
                     fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
+                    xmlns="http://www.w3.org/2000/svg">
                     <mask
                       id="mask0"
                       mask-type="alpha"
@@ -797,8 +770,7 @@ const Home: NextPage = () => {
                       x="0"
                       y="0"
                       width="60"
-                      height="60"
-                    >
+                      height="60">
                       <circle cx="30" cy="30" r="30" fill="#3546AB" />
                     </mask>
                     <g mask="url(#mask0)">
@@ -832,32 +804,28 @@ const Home: NextPage = () => {
                       <li className="mb-6">
                         <a
                           href=""
-                          className="text-lg color-palette-1 text-decoration-none"
-                        >
+                          className="text-lg color-palette-1 text-decoration-none">
                           About Us
                         </a>
                       </li>
                       <li className="mb-6">
                         <a
                           href=""
-                          className="text-lg color-palette-1 text-decoration-none"
-                        >
+                          className="text-lg color-palette-1 text-decoration-none">
                           Press Release
                         </a>
                       </li>
                       <li className="mb-6">
                         <a
                           href=""
-                          className="text-lg color-palette-1 text-decoration-none"
-                        >
+                          className="text-lg color-palette-1 text-decoration-none">
                           Terms of Use
                         </a>
                       </li>
                       <li className="mb-6">
                         <a
                           href=""
-                          className="text-lg color-palette-1 text-decoration-none"
-                        >
+                          className="text-lg color-palette-1 text-decoration-none">
                           Privacy & Policy
                         </a>
                       </li>
@@ -871,24 +839,21 @@ const Home: NextPage = () => {
                       <li className="mb-6">
                         <a
                           href=""
-                          className="text-lg color-palette-1 text-decoration-none"
-                        >
+                          className="text-lg color-palette-1 text-decoration-none">
                           Refund Policy
                         </a>
                       </li>
                       <li className="mb-6">
                         <a
                           href=""
-                          className="text-lg color-palette-1 text-decoration-none"
-                        >
+                          className="text-lg color-palette-1 text-decoration-none">
                           Unlock Rewards
                         </a>
                       </li>
                       <li className="mb-6">
                         <a
                           href=""
-                          className="text-lg color-palette-1 text-decoration-none"
-                        >
+                          className="text-lg color-palette-1 text-decoration-none">
                           Live Chatting
                         </a>
                       </li>
@@ -902,16 +867,14 @@ const Home: NextPage = () => {
                       <li className="mb-6">
                         <a
                           href="mailto: hi@store.gg"
-                          className="text-lg color-palette-1 text-decoration-none"
-                        >
+                          className="text-lg color-palette-1 text-decoration-none">
                           hi@store.gg
                         </a>
                       </li>
                       <li className="mb-6">
                         <a
                           href="mailto: team@store.gg"
-                          className="text-lg color-palette-1 text-decoration-none"
-                        >
+                          className="text-lg color-palette-1 text-decoration-none">
                           team@store.gg
                         </a>
                       </li>
@@ -919,16 +882,14 @@ const Home: NextPage = () => {
                         <a
                           href="http://maps.google.com/?q=Pasific 12,
                                         Jakarta Selatan"
-                          className="text-lg color-palette-1 text-decoration-none"
-                        >
+                          className="text-lg color-palette-1 text-decoration-none">
                           Pasific 12, Jakarta Selatan
                         </a>
                       </li>
                       <li className="mb-6">
                         <a
                           href="tel: 02111229090"
-                          className="text-lg color-palette-1 text-decoration-none"
-                        >
+                          className="text-lg color-palette-1 text-decoration-none">
                           021 - 1122 - 9090
                         </a>
                       </li>

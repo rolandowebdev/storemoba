@@ -367,11 +367,6 @@ export default function Detail() {
                   className="btn btn-submit rounded-pill fw-medium text-white border-0 text-lg">
                   Continue
                 </a>
-                {/* <button
-                  type="submit"
-                  className="btn btn-submit rounded-pill fw-medium text-white border-0 text-lg">
-                  Continue
-                </button> */}
               </div>
             </form>
           </div>

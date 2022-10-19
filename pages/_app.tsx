@@ -8,6 +8,8 @@ import '../styles/sign-up.css';
 import '../styles/sign-up-photo.css';
 import '../styles/sign-up-success.css';
 import '../styles/404.css';
+import '../styles/sidebar.css';
+import '../styles/overview.css';
 import Head from 'next/head';
 import type { AppProps } from 'next/app';
 

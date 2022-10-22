@@ -13,6 +13,7 @@ import '../styles/overview.css';
 import '../styles/transactions.css';
 import '../styles/transactions-detail.css';
 import '../styles/edit-profile.css';
+import '../styles/navbar-log-in.css';
 import Head from 'next/head';
 import type { AppProps } from 'next/app';
 
@@ -22,9 +23,9 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Head>
         {/* Bootstrap CSS */}
         <link
-          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
           rel="stylesheet"
-          integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x"
+          integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
           crossOrigin="anonymous"
         />
 
@@ -43,9 +44,10 @@ function MyApp({ Component, pageProps }: AppProps) {
 
         {/* Bootstrap JS */}
         <script
-          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
-          integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
-          crossOrigin="anonymous"></script>
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
+          crossOrigin="anonymous"
+        />
       </Head>
       <Component {...pageProps} />
     </>

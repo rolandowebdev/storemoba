@@ -7,7 +7,7 @@ interface MenuProps {
   href: string;
 }
 
-// Partial digunakan ketika ingin menggunakan default value
+// Partial digunakan ketika ingin menggunakan optional default value
 export default function Menu(props: Partial<MenuProps>) {
   const { title, active, href = '/' } = props;
   const classTitle = cx({

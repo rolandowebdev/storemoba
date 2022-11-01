@@ -15,6 +15,7 @@ import '../styles/transactions-detail.css';
 import '../styles/edit-profile.css';
 import '../styles/navbar-log-in.css';
 import Head from 'next/head';
+
 import type { AppProps } from 'next/app';
 
 function MyApp({ Component, pageProps }: AppProps) {

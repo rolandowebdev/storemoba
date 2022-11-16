@@ -12,7 +12,7 @@ export default function StepItem(props: StepItem) {
       <div className="card feature-card border-0">
         <img
           src={`/icon/${icon}.svg`}
-          alt="Icon Step"
+          alt="icon step"
           className="mb-30"
           width={80}
           height={80}

@@ -13,7 +13,7 @@ export default function Illustration() {
                 width={40}
                 height={40}
                 className="rounded-pill"
-                alt="Profile Image"
+                alt="profile image"
               />
               <div>
                 <p className="text-sm fw-medium color-palette-1 m-0">
@@ -39,7 +39,7 @@ export default function Illustration() {
                 width={80}
                 height={80}
                 className="rounded-pill"
-                alt="Hero Image"
+                alt="hero image"
               />
               <p className="right-card-support text-white text-xxs text-center position-absolute m-0">
                 New

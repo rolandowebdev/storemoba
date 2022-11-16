@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="row">
             <div className="col-lg-4 text-lg-start text-center">
               <a className="mb-30" href="/#">
-                <Image src="/icon/logo.svg" width={60} height={60} />
+                <Image src="/icon/logo.svg" width={60} height={60} alt="logo" />
               </a>
               <p className="mt-30 text-lg color-palette-1 mb-30">
                 StoreGG membantu gamers

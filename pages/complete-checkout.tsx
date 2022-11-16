@@ -10,7 +10,7 @@ export default function completeCheckout() {
             viewBox="0 0 343 300"
             fill="none"
             xmlns="http://www.w3.org/2000/svg">
-            <g clip-path="url(#clip0)">
+            <g clipPath="url(#clip0)">
               <path
                 d="M263.96 271.587C264.986 271.07 265.5 270.554 266.525 270.037"
                 stroke="#FF78B7"

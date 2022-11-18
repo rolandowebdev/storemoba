@@ -1,8 +1,8 @@
-interface TopUpItem {
+interface TopUpItemProps {
   type: 'desktop' | 'mobile';
 }
 
-export default function TopUpItem(props: TopUpItem) {
+export default function TopUpItem(props: TopUpItemProps) {
   const { type } = props;
   if (type === 'desktop') {
     return (

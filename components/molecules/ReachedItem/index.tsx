@@ -1,9 +1,9 @@
-interface ReachedItem {
+interface ReachedItemProps {
   value: string;
   desc: string;
 }
 
-export default function ReachedItem(props: ReachedItem) {
+export default function ReachedItem(props: ReachedItemProps) {
   const { value, desc } = props;
   return (
     <div className="me-lg-35">

@@ -1,11 +1,11 @@
-interface StepItem {
+interface StepItemProps {
   icon: 'step-1' | 'step-2' | 'step-3';
   title: string;
   desc1: string;
   desc2: string;
 }
 
-export default function StepItem(props: StepItem) {
+export default function StepItem(props: StepItemProps) {
   const { icon, title, desc1, desc2 } = props;
   return (
     <div className="col-lg-4">

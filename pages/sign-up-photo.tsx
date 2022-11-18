@@ -52,7 +52,6 @@ export default function signUpPhoto() {
                 </select>
               </div>
             </div>
-
             <div className="button-group d-flex flex-column mx-auto">
               <a
                 className="btn btn-create fw-medium text-lg text-white rounded-pill mb-16"
@@ -60,7 +59,6 @@ export default function signUpPhoto() {
                 role="button">
                 Create My Account
               </a>
-
               <a
                 className="btn btn-tnc text-lg color-palette-1 text-decoration-underline pt-15"
                 href="#"
